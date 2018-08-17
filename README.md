@@ -1,9 +1,12 @@
-# David Wang 2018.01.22 in CUHK,Shenzhen
-# need 
-#      kazam:installed in ubuntu sofeware,get video
-#      mplayer:sudo apt-get install mplayer,get jpegs
-#      imagemagic:sudo apt-get install imagemagic,get gif
-
-# this file should be with video file
-# input:video file name without '.mp4'
-# output:gif file
+# Haibo Wang 2018.01.22 in CUHK,Shenzhen<br>
+### Requirements:<br>
+___
+    `kazam:`already in ubuntu
+    `mplayer:`sudo apt-get install mplayer
+    `imagemagic:`sudo apt-get install imagemagic
+___
+### Quick start<br>
+___
+    `input:`video file with ".mp4"
+    `output:`gif file
+___
