@@ -5,7 +5,7 @@ ___
     mplayer: sudo apt-get install mplayer
     imagemagic: sudo apt-get install imagemagic
 ___
-### Quick start<br>
+### Quick start:<br>
 ___
-command=> *sh video2gif.sh video.mp4*
+**command=>**   *sh video2gif.sh video.mp4*
 ___
