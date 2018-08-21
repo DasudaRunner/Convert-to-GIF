@@ -7,5 +7,5 @@ ___
 ___
 ### Quick start:<br>
 ___
-**command=>**   *sh video2gif.sh video.mp4*
+**command=>**   *sudo sh video2gif.sh video.mp4*
 ___
